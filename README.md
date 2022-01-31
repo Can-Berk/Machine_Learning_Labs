@@ -61,7 +61,7 @@
 - Creating DataFrames from the dataset and operations on them
 - Apache Spark transformations and actions on recommender dataset MovieLens 10M
 
-### Submitting jobs on ISMLL Cluster  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-red)](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Cluster_ISMLL_jobs.pdf)
+### Submitting jobs on ISMLL Cluster  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-red.svg)](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Cluster_ISMLL_jobs.pdf)
 - Create a conda environment and install the latest PyTorch library and dependencies
 - View submitted jobs
 - Copy random data from your local compute to the master
