@@ -56,23 +56,23 @@
 - Implementing a Naive Bayes Classifier to categorize news items and report test accuracy
 - Implementing SVM Classifier via Scikit-Learn and report test accuracy
 
-### Distributed Computing with Apache Spark
+### Distributed Computing with Apache Spark  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O6L4lef4STSi9iNrjSuBmNcR8VNgJEk3?usp=sharing)
 - Creating two Resilient Distributed Dataset RDD objects and operations on them
 - Creating DataFrames from the dataset and operations on them
 - Apache Spark transformations and actions on recommender dataset MovieLens 10M
 
-### Submitting jobs on ISMLL Cluster  [TEXT TO SHOW](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Cluster_ISMLL_jobs.pdf)
+### Submitting jobs on ISMLL Cluster  [Open in PDF](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Cluster_ISMLL_jobs.pdf)
 - Create a conda environment and install the latest PyTorch library and dependencies
 - View submitted jobs
 - Copy random data from your local compute to the master
 - Implement a neural network and submit a job that trains the network then plot the training error
 
-### Distributed Computing with Message Passing Interface (MPI)  (PDF available)
+### Distributed Computing with Message Passing Interface (MPI)  [Open in PDF](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Distributed_Data_Analytics.pdf)
 - Basic Parallel Vector Operations with MPI by finding summation and average with parallelization
 - Implement parallel matrix vector multiplication using MPI point-to-point communication and compare time performance with various number of workers
 - Implement parallel matrix matrix multiplication using MPI collective communication and compare time performance with various number of workers
 
-### Google Cloud Virtual Machine (VM)  (PDF available)
+### Google Cloud Virtual Machine (VM)  [Open in PDF](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/GoogleCloud_VirtualMachineJobs.pdf)
 - Use Ssh key to start secure shell session
 - Create Virtual Machine instance
 - Run basic Linux operations
