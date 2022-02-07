@@ -80,7 +80,7 @@
 - Install Anaconda to VM and necessary libraries to run the Neural Network task and execute the code
 
 ### Natural Language Processing Task - Acronym-Definition Pair (e.g. WHO - World Health Organization) Detection from CORD-19 Dataset  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18tHa3Rc8DwlaQn2qUtgMkQAr1AsjmyRk?usp=sharing)
-- Read data CORD-19 Dataset including 13,202 text files on Corona-Virus related publications
-- Patterns in the texts are investigated to understand common patterns for identifying acronyms and avoiding misleading characters (focus is on punctuation and letter matching)
+- Read CORD-19 Dataset including 13,202 text files on Corona-Virus related publications
+- Texts are investigated to understand common patterns for identifying acronyms and avoiding misleading characters (focus is on punctuation and letter matching)
 - Acronyms without definitions are investigated further with POS-Tagging
-- Duplicate pairs of acronym and definition are removed. Jaccard index is used as distance measurement among the Lemmatized definitions within each acronym to remove excessive same/similar pairs
+- Duplicate pairs of acronym and definition are removed. Jaccard index is used as distance (similarity) measurement among the Lemmatized definitions within each acronym to remove excessive same/similar acronym-definition pairs
