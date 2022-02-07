@@ -72,6 +72,10 @@
 - Implement parallel matrix vector multiplication using MPI point-to-point communication and compare time performance with various number of workers
 - Implement parallel matrix matrix multiplication using MPI collective communication and compare time performance with various number of workers
 
+### Distributed K-means Clustering  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-red.svg)](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/Distributed_Kmeans.pdf)
+- Calculated each instance from centroids by euclidean distance and assigned each to one with minimum distance
+- Compare performance of 1 processor vs. 4 processors (paralellization) in terms of time by reading and calculating the new centroids
+
 ### Google Cloud Virtual Machine (VM)  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-red.svg)](https://github.com/Can-Berk/Machine_Learning_Labs/blob/main/JupyterNotebooks/GoogleCloud_VirtualMachineJobs.pdf)
 - Use Ssh key to start secure shell session
 - Create Virtual Machine instance
