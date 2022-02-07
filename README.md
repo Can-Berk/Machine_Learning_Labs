@@ -85,10 +85,10 @@
 - Acronyms without definitions are investigated further with POS-Tagging
 - Duplicate pairs of acronym and definition are removed. Jaccard index is used as distance (similarity) measurement among the Lemmatized definitions within each acronym to remove excessive same/similar acronym-definition pairs
 
-### Programming a Self-Driving Car Model
+### Programming a Self-Driving Car Model  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jHhBJht-omf7zjNx__ayulj-8hAytqk5?usp=sharing)
 Create a behavioral cloning model that looks at an image from the car and predicts the required steering angle to drive properly
 - Images generated from self-driving car simulator are used as training data with corresponding steering angles as their labels
 - Computer vision techniques are used to preprocess the data
 - Data augmentation by zooming, panning, changing brightness and flipping on some randomly chosen images
 - Train the model with Convolutional Neural Networks
-- Deploy trained model on Udacity car simulator to test the model
+- Deploy trained model on Udacity car simulator to test the model  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-black.svg)](https://github.com/udacity/self-driving-car-sim)
