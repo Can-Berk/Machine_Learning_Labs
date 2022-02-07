@@ -91,4 +91,4 @@ Create a behavioral cloning model that looks at an image from the car and predic
 - Computer vision techniques are used to preprocess the data
 - Data augmentation by zooming, panning, changing brightness and flipping on some randomly chosen images
 - Train the model with Convolutional Neural Networks
-- Deploy trained model on Udacity car simulator to test the model  [![Generic badge](https://img.shields.io/badge/Open%20In-PDF-black.svg)](https://github.com/udacity/self-driving-car-sim)
+- Deploy trained model on Udacity car simulator to test the model  [![Generic badge](https://img.shields.io/badge/Simulator-Link-black.svg)](https://github.com/udacity/self-driving-car-sim)
