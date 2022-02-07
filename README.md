@@ -84,3 +84,11 @@
 - Texts are investigated to understand common patterns for identifying acronyms and avoiding misleading characters (focus is on punctuation and letter matching)
 - Acronyms without definitions are investigated further with POS-Tagging
 - Duplicate pairs of acronym and definition are removed. Jaccard index is used as distance (similarity) measurement among the Lemmatized definitions within each acronym to remove excessive same/similar acronym-definition pairs
+
+### Programming a Self-Driving Car Model
+Create a behavioral cloning model that looks at an image from the car and predicts the required steering angle to drive properly
+- Images generated from self-driving car simulator are used as training data with corresponding steering angles as their labels
+- Computer vision techniques are used to preprocess the data
+- Data augmentation by zooming, panning, changing brightness and flipping on some randomly chosen images
+- Train the model with Convolutional Neural Networks
+- Deploy trained model on Udacity car simulator to test the model
